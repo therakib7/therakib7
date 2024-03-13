@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Rakibul Hasan**, a passionate web/app developer. I work at **[WeDevs Ltd](https://wedevs.com)**, where I specialize in **PHP, WordPress, Laravel, JavaScript, React, Redux, Next JS, Gutenberg Block, Typescript, React Native, Vue JS, Node JS, Tailwind CSS, MySQL, Docker, and more...**.
+I'm **Rakibul Hasan**, a passionate web/app developer. I specialize in **PHP, WordPress, Laravel, JavaScript, React, Redux, Next JS, Gutenberg Block, Typescript, React Native, Vue JS, Node JS, Tailwind CSS, MySQL, Docker, and more...**.
 
 
 ## About Me
